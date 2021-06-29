@@ -1,1 +1,1 @@
-# openmemeproject
+# Welcome to the Open Meme Project
